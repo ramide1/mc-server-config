@@ -33,12 +33,12 @@ settings:
     attackDamage:
       max: 2048.0
 messages:
-  restart: El server se esta reiniciando
-  whitelist: No estas en la whitelist de este server!
-  unknown-command: Comando desconocido. Escribi "/help" para obtener ayuda.
-  server-full: El server esta lleno!
-  outdated-client: Client desactualizado! Porfavor usa {0}
-  outdated-server: Server desactualizado! Esta en {0}
+  restart: Server is restarting
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
 commands:
   silent-commandblock-console: false
   log: true
