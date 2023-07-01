@@ -1,5 +1,5 @@
 # mcserverconfig
-Optimized config files for my papermc minecraft server
+Optimized config files for my Minecraft servers
 
 If you want to create a Minecraft server with this configuration follow the next steps:
 -First clone this repository, if you are new or you don´t know how, you can dowload as zip and extract it.
